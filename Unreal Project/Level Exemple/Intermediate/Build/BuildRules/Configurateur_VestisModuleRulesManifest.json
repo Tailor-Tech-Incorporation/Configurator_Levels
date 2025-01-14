@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\solin\\Documents\\Unreal Projects\\Configurateur_Vestis_Chemise\\Intermediate\\Source\\Configurateur_Vestis.Build.cs",
+		"C:\\Users\\solin\\Documents\\Unreal Projects\\Configurateur_Vestis_Chemise\\Intermediate\\Source\\Configurateur_Vestis.Target.cs",
+		"C:\\Users\\solin\\Documents\\Unreal Projects\\Configurateur_Vestis_Chemise\\Intermediate\\Source\\Configurateur_VestisClient.Target.cs",
+		"C:\\Users\\solin\\Documents\\Unreal Projects\\Configurateur_Vestis_Chemise\\Intermediate\\Source\\Configurateur_VestisEditor.Target.cs",
+		"C:\\Users\\solin\\Documents\\Unreal Projects\\Configurateur_Vestis_Chemise\\Intermediate\\Source\\Configurateur_VestisServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

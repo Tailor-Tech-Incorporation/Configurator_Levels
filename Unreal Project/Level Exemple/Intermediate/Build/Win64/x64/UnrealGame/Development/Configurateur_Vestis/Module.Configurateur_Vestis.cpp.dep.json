@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\solin\\documents\\unreal projects\\configurateur_vestis_chemise\\intermediate\\build\\win64\\x64\\unrealgame\\development\\configurateur_vestis\\module.configurateur_vestis.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\solin\\documents\\unreal projects\\configurateur_vestis_chemise\\intermediate\\build\\win64\\x64\\configurateur_vestis\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\solin\\documents\\unreal projects\\configurateur_vestis_chemise\\intermediate\\build\\win64\\x64\\unrealgame\\development\\configurateur_vestis\\definitions.configurateur_vestis.h",
+            "c:\\users\\solin\\documents\\unreal projects\\configurateur_vestis_chemise\\intermediate\\source\\configurateur_vestis.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
