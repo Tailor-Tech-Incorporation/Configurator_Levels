@@ -14769,3 +14769,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.01.14-12.32.09:317][159]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (282)
 [2025.01.14-12.32.09:317][159]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (280)
 [2025.01.14-12.32.09:317][159]LogModuleManager: Shutting down and abandoning module LiveCoding (278)
+[2025.01.14-13.32.39:623][159]LogDerivedDataCache: C:/Users/solin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:04:04.915 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 112718 files in 96754 folders with total size 26043 MiB.
